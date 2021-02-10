@@ -1,7 +1,7 @@
 # Tetris
 
-Projecto realizado con JavaScript, siguiendo el tutorial de Ania Kubow
-<a href= "https://www.youtube.com/watch?v=w1JJfK09ujQ&list=PLRD1Niz0lz1uR4W3ms6DygWMjXW-6hDB_&index=15&ab_channel=CodewithAniaKub%C3%B3w">Link</a>
+Proyecto realizado con JavaScript, siguiendo el tutorial de Ania Kubow
+<a href= "https://www.youtube.com/watch?v=w1JJfK09ujQ&list=PLRD1Niz0lz1uR4W3ms6DygWMjXW-6hDB_&index=15&ab_channel=CodewithAniaKub%C3%B3w" target="_blank">Link</a>
 
 ## El juego:
 
