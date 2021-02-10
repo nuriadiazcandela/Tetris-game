@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: 'Audiowide', cursive;
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  background-repeat: no-repeat;
+}
+
+.title {
+  color: white;
+  text-align: center;
+  font-size: 70px;
+  padding: 20px;
+}
+
+.score {
+  text-align: end;
+  padding-right: 50px;
+}
+.btn-container {
+  padding-left: 50px;
+}
+.btn {
+  border-radius: 10%;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 5px;
+  background-color: #004d7a;
+  color: whitesmoke;
+}
+.container {
+  display: flex;
+  padding: 20px;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.grid {
+  width: 200px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+
+  background: linear-gradient(to bottom, rgb(17, 17, 109), rgb(3, 3, 20));
+}
+.grid div {
+  height: 20px;
+  width: 20px;
+}
+.tetromino {
+  background-color: blue;
+}
+.mini-grid {
+  margin-left: 50px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  background: linear-gradient(to bottom, rgb(17, 17, 109), rgb(3, 3, 20));
+}
+.mini-grid div {
+  height: 20px;
+  width: 20px;
+}
+body {
+  font-family: 'Audiowide', cursive;
+}
+#start-button {
+  font-family: 'Audiowide', cursive;
+}
+.square {
+  height: 24px;
+  width: 24px;
+  border: 0.1px solid rgb(73, 73, 214);
+}
+.footer {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12px;
+  padding-left: 20px;
+  justify-content: end;
+  display: flex;
+}
+.icons {
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
